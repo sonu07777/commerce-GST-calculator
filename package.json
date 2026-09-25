@@ -1,6 +1,6 @@
 {
   "name": "commerce-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A type-safe TypeScript financial calculation library for GST, discounts, invoices and pricing",
   "type": "module",
   "main": "./dist/index.cjs",
